@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I’m [Your Name]
 
-<!--
-**CrrTweaks/CrrTweaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web development enthusiast focused on learning modern web technologies, programming fundamentals, and building practical projects.
 
-Here are some ideas to get you started:
+I enjoy exploring how web applications work — from the structure of a page to the logic behind interactive features and backend behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Technical Interests
+
+* Web development fundamentals
+* Frontend interfaces and user interaction
+* JavaScript logic and application behavior
+* Backend basics and automation
+* Software development and problem solving
+
+---
+
+📚 Current Focus
+
+Currently improving my knowledge of web development fundamentals while building projects that help me better understand real-world development workflows.
+
+---
+
+🧰 Languages & Tools
+
+HTML • CSS • JavaScript • Git • GitHub
