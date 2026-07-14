@@ -1,26 +1,42 @@
-## 👋 Hi, I’m Crr
+# Hey there! I'm Crr 👋
 
-**Web development** enthusiast focused on learning modern web technologies, programming fundamentals, and building practical projects.
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&width=435&lines=Web+Development+Enthusiast;Learning+PHP+%26+React;Building+Practical+Projects" alt="Typing SVG" /></a>
+</p>
 
-I enjoy exploring how web applications work — from the structure of a page to the logic behind interactive features and backend behavior.
-
----
-
-## 🛠️ Technical Interests
-
-* Web development fundamentals
-* Frontend interfaces and user interaction
-* JavaScript logic and application behavior
-* Backend basics and automation
-* Software development and problem solving
-
----
-
-## 📚 Current Focus
-
-Currently improving my knowledge of web development fundamentals while building projects that help me better understand real-world development workflows.
-
----
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🚀 About Me</h3>
+      <p>
+        I'm a <strong>Web Development</strong> enthusiast focused on learning modern web technologies, programming fundamentals, and building practical projects.
+      </p>
+      <p>
+        I enjoy exploring how web applications work — from the structure of a page to the logic behind interactive features and backend behavior.
+      </p>
+      
+      <h3>🛠️ Technical Interests</h3>
+      <ul>
+        <li>Web development fundamentals</li>
+        <li>Frontend interfaces and user interaction</li>
+        <li>JavaScript logic and application behavior</li>
+        <li>Backend basics and automation</li>
+        <li>Software development and problem solving</li>
+      </ul>
+      
+      <h3>📚 Current Focus</h3>
+      <p>
+        Currently improving my knowledge of web development fundamentals while building projects that help me better understand real-world development workflows.
+      </p>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <h3>📊 GitHub Statistics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=mainick&show_icons=true&theme=transparent&hide_border=true&title_color=777BB4&icon_color=F7DF1E&text_color=ffffff" width="100%" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainick&layout=compact&theme=transparent&hide_border=true&title_color=777BB4&text_color=ffffff" width="100%" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Tech Stack
 
@@ -37,3 +53,10 @@ Currently improving my knowledge of web development fundamentals while building 
 
 ### 🛠️ Tools
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📬 Connect with me
+<p align="left">
+  <a href="https://github.com/mainick"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
